@@ -25,6 +25,14 @@ To get started, clone the repository and install the necessary dependencies:
 
 ## Usage
 
+![image](https://github.com/user-attachments/assets/3d8f6634-4ada-4fea-83e0-ec5de968f163)
+
+UI using chainlit
+![image](https://github.com/user-attachments/assets/1524b975-b793-4303-ac26-e1df0bfb3895)
+![image](https://github.com/user-attachments/assets/adc637c9-da9c-4ec7-b131-c5f2eed38a5a)
+
+
+
 Here are some basic usage examples:
 
 ```python
