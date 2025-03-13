@@ -50,3 +50,6 @@ To run this script, execute it with Python:
 chainlit run qwen2-ui.py
 ```
 
+![image](https://github.com/user-attachments/assets/05f79817-20a7-4192-8927-77b95b1f24db)
+
+
