@@ -52,4 +52,15 @@ chainlit run qwen2-ui.py
 
 ![image](https://github.com/user-attachments/assets/05f79817-20a7-4192-8927-77b95b1f24db)
 
+#Running multiple language models from a single web UI (choose-model.ui.py)
+To run this script, execute it with Python:
+```bash
+chainlit run .\choose-model.ui.py
+```
+
+![image](https://github.com/user-attachments/assets/72fa91b7-33f6-4d74-8222-59a83bfba921)
+![image](https://github.com/user-attachments/assets/40e42cf8-7e89-4966-aab5-7400c5ee0989)
+
+
+
 
