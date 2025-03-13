@@ -28,8 +28,12 @@ To get started, clone the repository and install the necessary dependencies:
 ![image](https://github.com/user-attachments/assets/3d8f6634-4ada-4fea-83e0-ec5de968f163)
 
 UI using chainlit
+model='gemma3'
 ![image](https://github.com/user-attachments/assets/1524b975-b793-4303-ac26-e1df0bfb3895)
 ![image](https://github.com/user-attachments/assets/adc637c9-da9c-4ec7-b131-c5f2eed38a5a)
+
+model='qwen2:0.5b'
+![image](https://github.com/user-attachments/assets/587e3755-9394-4278-87e1-3f399b452b7c)
 
 
 
