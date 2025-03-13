@@ -20,6 +20,7 @@ To get started, clone the repository and install the necessary dependencies:
 ```bash
 1) Download - download https://ollama.com/download
 2) run "ollama pull gemma3" from your vscode cmd
+2) run "ollama run qwen2" from your vscode cmd
 3) pip install ollama chainlit
 ```
 
