@@ -34,10 +34,19 @@ To run this script, execute it with Python:
 python app.py
 ```
 
-#Running the f gemma3-ui.py Script
+#Running the Gemma 3 model via web ui (gemma3-ui.py Script)
 gemma3-ui.py script demonstrates a simple usage of the Gemma 3 model and shows in a web ui using chainlit lib
+![image](https://github.com/user-attachments/assets/0abe2e79-78e6-4e98-a665-eda5d927acb0)
+
 To run this script, execute it with Python:
 ```bash
 chainlit run gemma3-ui.py
+```
+#Running the Qwen2 Model via web ui (qwen2-ui.py Script)
+![image](https://github.com/user-attachments/assets/27e0f3d4-5e6e-4e63-a191-b2e9157e1ae5)
+
+To run this script, execute it with Python:
+```bash
+chainlit run qwen2-ui.py
 ```
 
