@@ -22,3 +22,12 @@ To get started, clone the repository and install the necessary dependencies:
 2) run "ollama pull gemma3" from your vscode cmd
 3) run "ollama pull qwen2:0.5b" from your vscode cmd
 4) pip install ollama chainlit transformers
+
+#Running the app.py Script
+The app.py script demonstrates a simple usage of the Gemma 3 model to generate a meal plan for the day:
+![image](https://github.com/user-attachments/assets/513f603b-fc8c-449b-82d0-34939b5dac90)
+
+To run this script, simply execute it with Python: python app.py
+
+
+
