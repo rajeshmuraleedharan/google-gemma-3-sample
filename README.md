@@ -18,10 +18,9 @@ This project demonstrates the use of Google Gemma 3 to create and manage LLM age
 To get started, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/rajeshmuraleedharan/google-gemma-3-sample.git
-cd google-gemma-3-sample
-ollama pull gemma3
-pip install ollama chainlit "praisonaiagents[llm]"
+1) Download - download https://ollama.com/download
+2) run "ollama pull gemma3" from your vscode cmd
+3) pip install ollama chainlit
 ```
 
 ## Usage
